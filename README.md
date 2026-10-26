@@ -4,9 +4,11 @@
   <a href="https://thodos998.gumroad.com/coffee">
     <img align="right" src="https://img.shields.io/badge/Donate-Gumroad-orange?style=flat-square&logo=gumroad&logoColor=white">
   </a>
+  <img src="https://img.shields.io/badge/NO-AI-red?style=flat-square">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Cinema_4D-2026-8A2BE2?style=flat-square">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
+  <img src="https://img.shields.io/github/downloads/Thodos1/C4D-Icon-Browser/total?style=flat-square&color=orange">
 </p>
 
 Got tired of browsing Cinema 4D's icons through the Shift + F12 menu, especially when setting up User Data or changing object icons to make scenes a bit more organised.
