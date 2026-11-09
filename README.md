@@ -6,7 +6,7 @@
   </a>
   <img src="https://img.shields.io/badge/NO-AI-red?style=flat-square">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Cinema_4D-2026-8A2BE2?style=flat-square">
+  <img src="https://img.shields.io/badge/Cinema-4D-8A2BE2?style=flat-square">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
   <img src="https://img.shields.io/github/downloads/Thodos1/C4D-Icon-Browser/total?style=flat-square&color=orange">
 </p>
